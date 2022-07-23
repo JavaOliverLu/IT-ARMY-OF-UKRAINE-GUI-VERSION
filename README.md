@@ -1,3 +1,7 @@
+###1. Install python and pip (REQUIRED!!)
+###2. Download this folder and unzip it
+###3. hit the "gui.py"
+
 ## IT Army of Ukraine Official Tool 
 
 ### [English Version](/README-EN.md)
